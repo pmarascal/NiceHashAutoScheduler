@@ -1,5 +1,7 @@
 # NiceHashAutoScheduler
 
+Powershell script that can be used to automatically switch between BTC Addresses in the Nicehash Mining program. It can either be used with a schedule.csv file that uses timestamps, or with a simple delay timer between an addresses.txt file.
+
  ========================================================================
 #			How To Setup & Use
  ========================================================================
