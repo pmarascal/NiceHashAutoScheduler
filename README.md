@@ -2,6 +2,16 @@
 
 Powershell script that can be used to automatically switch between BTC Addresses in the Nicehash Mining program. It can either be used with a schedule.csv file that uses timestamps, or with a simple delay timer between an addresses.txt file.
 
+ 	Covers Nicehash V2 and Legacy Covering The Following Miners: 
+		ccminer, ethminer, excavator, nheqminer, sgminer, miner (ewbf)
+		xmr-stak-cpu, xmr-stak, NsGpuCNMiner, EthDcrMiner64, ZecMiner64,
+		Optiminer, prospector, xmrig
+
+It was developed as part of a secret santa group sharing hash power during the Holiday season. This program can be used for any purposes you see fit. There is absolutely no need to donate a thing, just enjoy and hope that it helps for whatever project you have in mind.
+
+Donations 	BTC: 14thSNDnFBL8bA4D8AzVTaP1Xij9mVGSVr
+		LTC: LWBrYPG9ECqdq8a4UDc9jvTVpciPGZKin4
+
  ========================================================================
 #			How To Setup & Use
  ========================================================================
