@@ -7,7 +7,7 @@ Powershell script that can be used to automatically switch between BTC Addresses
 		xmr-stak-cpu, xmr-stak, NsGpuCNMiner, EthDcrMiner64, ZecMiner64,
 		Optiminer, prospector, xmrig
 
-It was developed as part of a secret santa group sharing hash power during the Holiday season. This program can be used for any purposes you see fit. There is absolutely no need to donate a thing, just enjoy and hope that it helps for whatever project you have in mind.
+It was developed as part of a Secret Santa group sharing hash power during the Holiday season. This program can be used for any purposes you see fit. There is absolutely no need to donate a thing, just enjoy and hope that it helps for whatever project you have in mind.
 
 	Donations 	BTC: 14thSNDnFBL8bA4D8AzVTaP1Xij9mVGSVr
 			LTC: LWBrYPG9ECqdq8a4UDc9jvTVpciPGZKin4
